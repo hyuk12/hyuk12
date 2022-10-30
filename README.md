@@ -10,7 +10,7 @@
 R기반의 빅데이터 분야도 공부 중에 있습니다.
 잘 부탁드립니다.
 
-
+📧 gogur7419@gmail.com
 
 <center>⚒️Tech Stack⚒</center></br>
 
