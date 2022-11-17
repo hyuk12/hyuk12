@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=GitHub%20Hyuk12%2!&descAlignY=51&descAlign=62)
 </br>
 
-
-
-
 🙋‍♂️ Hello! welcom my github.
 안녕하세요.  현재 백엔드 개발자 공부중인 hyuk12입니다.</br>
 자바 기반의 Spring framework와 Spring Boot를 공부 중이며,</br>
@@ -24,4 +21,3 @@ R기반의 빅데이터 분야도 공부 중에 있습니다.
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyuk12)](https://github.com/anuraghazra/github-readme-stats)
-
