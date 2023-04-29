@@ -1,17 +1,8 @@
-<div align=center>
+# hyuko 😉
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyuk12&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/hyuk12) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gogur7419@gmail.com) 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyuko.com/)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=GitHub%20Hyuk12%2!&descAlignY=51&descAlign=62)
-</br>
-
-🙋‍♂️ Hello! welcom my github.
-안녕하세요.  현재 백엔드 개발자 공부중인 hyuk12입니다.</br>
-자바 기반의 Spring framework와 Spring Boot를 공부 중이며,</br>
-R기반의 빅데이터 분야도 공부 중에 있습니다.
-잘 부탁드립니다.
-
-📧 gogur7419@gmail.com
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2Fhyuk12&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <center>⚒️Tech Stack⚒</center></br></br>
  
@@ -19,4 +10,23 @@ R기반의 빅데이터 분야도 공부 중에 있습니다.
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"></br>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyuk12)](https://github.com/anuraghazra/github-readme-stats)
+
+### Who Am I
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlgogur">
+
+- 🌱 I’m currently learning `Spring boot`, `React`, `AWS`, `MySQL`
+- 🚅 My hometown is Yangsan, Gyeongsangnam-do in Korea
+
+### Experience
+- 🎓 Academic Bank System , Department of Computer Engineering (2022.03~ )
+- 💻 Korea IT Academy, Government funded education (2022.12 ~ 2023.06)
+
+### What I Like
+- 📺 entertainment broadcasting
+- 🔵 Game
+- 🎬 Movie
+
+
+
+
