@@ -20,7 +20,7 @@
 - 🚅 My hometown is Yangsan, Gyeongsangnam-do in Korea
 
 ### Experience
-- 🎓 Academic Bank System , Department of Computer Engineering (2022.03~ )
+- 🎓 Academic Bank System , Department of Computer Engineering (2022.03~ 2023.08)
 - 💻 Korea IT Academy, Government funded education (2022.12 ~ 2023.06)
 
 ### What I Like
