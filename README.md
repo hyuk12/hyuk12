@@ -15,6 +15,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlgogur">
 
+- Ever-curious dev, exploring tech's frontiers 🚀✨
 - 🌱 I’m currently learning `Spring boot`, `React`, `AWS`, `MySQL`
 - 🚅 My hometown is Yangsan, Gyeongsangnam-do in Korea
 
